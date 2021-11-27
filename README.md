@@ -1,7 +1,7 @@
 # Dave_portofolio
-This is a data science portfolio it cointains the projects that I've been working on.
+Este es un portafolio de evidencias de los proyectos en los cuales he estado trabajando
 
-## Project 1. Data Explorations and Cleaning
-  Using python to do exploratory data analysis, quality assurance, and data cleaning.
+## Project 1. Limpieza y Exploración de Datos.
+  Limpieza y exploración de datos usamndo python
 
 
