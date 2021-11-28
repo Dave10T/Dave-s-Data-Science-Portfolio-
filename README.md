@@ -5,3 +5,8 @@ Este es un portafolio de evidencias de los proyectos en los cuales he estado tra
    Technical Analysis of Come Cryptocurrencies using Python
 
 ![](https://github.com/Dave10T/Dave-s-Data-Science-Portfolio-/blob/main/images/DailyReturnspng.png)
+![](https://github.com/Dave10T/Dave-s-Data-Science-Portfolio-/blob/main/images/PieChart.png)
+![](https://github.com/Dave10T/Dave-s-Data-Science-Portfolio-/blob/main/images/DailyVolume%20trade.png)
+![](https://github.com/Dave10T/Dave-s-Data-Science-Portfolio-/blob/main/images/CorrelationPairpng.png)
+![](https://github.com/Dave10T/Dave-s-Data-Science-Portfolio-/blob/main/images/VolBTC.png)
+![](https://github.com/Dave10T/Dave-s-Data-Science-Portfolio-/blob/main/images/VOL3Crypto.png)
