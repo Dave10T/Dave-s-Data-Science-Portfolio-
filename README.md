@@ -6,7 +6,7 @@
 **Project description:** with an increase in the penetration of analytics into numerous facets of our lives, finance is definitely one of the earliest to catch onto this trend. In this project I have attempted to showcase how data analytics and visualization techniques can be incorporated in the world of cryptocurrencies. Bitcoin aswell as other cryptocurrencies such as ETH, XRP, ADA and many others are the most profitable assets today
 
 
-## * Understanding data & general statistics
+## Understanding data & general statistics
 For this analysis, I have used 6 years of historical data from around First-Jan 2015 to Nov-2021 of bitcoin. The data was taken from Yahoo Fianance. 
 ```Import necessary libraries —
    import numpy as np 
@@ -19,12 +19,12 @@ For this analysis, I have used 6 years of historical data from around First-Jan 
 ```
 ### Objectives of this project: to investigate the general variation in the stock price, day-to-day percentage change(Daily returns), trend Analysis, daily returns and volume trading, correlation analysis of stocks with pair plot and joint plots and volatility analysis.
 
-## * Results obtained:
+## > Results obtained:
 
-## ** Price:
+## Price:
 ![](https://github.com/Dave10T/Dave-s-Data-Science-Portfolio-/blob/main/images/DailyReturnspng.png)
 
-## ** We wish to see how the stock was trending in past 5 years. This can be visualized as a pie chart
+## We wish to see how the stock was trending in past 5 years. This can be visualized as a pie chart
 ![](https://github.com/Dave10T/Dave-s-Data-Science-Portfolio-/blob/main/images/PieChart.png)
 
 
