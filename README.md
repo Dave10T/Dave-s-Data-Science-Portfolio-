@@ -36,3 +36,10 @@ For this analysis, I have used 6 years of historical data from around First-Jan 
 ## Volatility Analysis 
 ![](https://github.com/Dave10T/Dave-s-Data-Science-Portfolio-/blob/main/images/VolBTC.png)
 ![](https://github.com/Dave10T/Dave-s-Data-Science-Portfolio-/blob/main/images/VOL3Crypto.png)
+
+## [Project 2. Data Analysis & Visualization in Finance](https://github.com/Dave10T/Dave-s-Data-Science-Portfolio-)
+   Predicting customer attrition using supervised machine learning algorithms in Python
+   
+   ### Objectives of this project: Customer attrition (a.k.a customer churn) is one of the biggest expenditures of any organization. If one could figure out why a      customer leaves and when they leave with reasonable accuracy, it would immensely help the organization to strategize their retention initiatives manifold. We make     use of a customer transaction dataset from Kaggle to understand the key steps involved in predicting customer attrition in Python.
+   Supervised Machine Learning is nothing but learning a function that maps an input to an output based on example input-output pairs. A supervised machine learning    algorithm analyzes the training data and produces an inferred function, which can be used for mapping new examples. Given that we have data on current and prior     customer transactions in the telecom dataset, this is a standardized supervised classification problem that tries to predict a binary outcome (Y/N).
+ 
