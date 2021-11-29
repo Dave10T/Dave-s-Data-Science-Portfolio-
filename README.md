@@ -33,6 +33,6 @@ For this analysis, I have used 6 years of historical data from around First-Jan 
 ## Correlation
 ![](https://github.com/Dave10T/Dave-s-Data-Science-Portfolio-/blob/main/images/CorrelationPairpng.png)
 
-
+## Volatility Analysis 
 ![](https://github.com/Dave10T/Dave-s-Data-Science-Portfolio-/blob/main/images/VolBTC.png)
 ![](https://github.com/Dave10T/Dave-s-Data-Science-Portfolio-/blob/main/images/VOL3Crypto.png)
