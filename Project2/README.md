@@ -28,4 +28,4 @@
 ![](https://github.com/Dave10T/Dave-s-Data-Science-Portfolio-/blob/main/Project2/img/p2-11.png)
 
 ## Stage 3: Model Selection.
-![]()
+![](https://github.com/Dave10T/Dave-s-Data-Science-Portfolio-/blob/main/Project2/img/p2-MS.png)
