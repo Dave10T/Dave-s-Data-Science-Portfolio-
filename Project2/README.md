@@ -8,3 +8,5 @@
     (1) what is the likelihood of an active customer leaving an organization? 
     (2) what are key indicators of a customer churn? 
     (3) what retention strategies can be implemented based on the results to diminish prospective customer churn?
+## Data Strcuture
+![](https://github.com/Dave10T/Dave-s-Data-Science-Portfolio-/blob/main/Project2/img/p2-1.png)
