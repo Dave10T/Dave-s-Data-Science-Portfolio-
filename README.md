@@ -24,8 +24,10 @@ For this analysis, I have used 6 years of historical data from around First-Jan 
 ## ** Price:
 ![](https://github.com/Dave10T/Dave-s-Data-Science-Portfolio-/blob/main/images/DailyReturnspng.png)
 
-
+## ** We wish to see how the stock was trending in past 5 years. This can be visualized as a pie chart
 ![](https://github.com/Dave10T/Dave-s-Data-Science-Portfolio-/blob/main/images/PieChart.png)
+
+
 ![](https://github.com/Dave10T/Dave-s-Data-Science-Portfolio-/blob/main/images/DailyVolume%20trade.png)
 ![](https://github.com/Dave10T/Dave-s-Data-Science-Portfolio-/blob/main/images/CorrelationPairpng.png)
 ![](https://github.com/Dave10T/Dave-s-Data-Science-Portfolio-/blob/main/images/VolBTC.png)
