@@ -44,7 +44,7 @@ For this analysis, I have used 6 years of historical data from around First-Jan 
    Supervised Machine Learning is nothing but learning a function that maps an input to an output based on example input-output pairs. A supervised machine learning    algorithm analyzes the training data and produces an inferred function, which can be used for mapping new examples. Given that we have data on current and prior     customer transactions in the telecom dataset, this is a standardized supervised classification problem that tries to predict a binary outcome (Y/N).
    
    ## Objectives of the project: To solve some of the key business challenges pertaining to customer attrition such as: 
-     **(1)** what is the likelihood of an active customer leaving an organization? 
-     **(2)** what are key indicators of a customer churn? 
-     **(3)** what retention strategies can be implemented based on the results to diminish prospective customer churn?
+    (1) what is the likelihood of an active customer leaving an organization? 
+    (2) what are key indicators of a customer churn? 
+    (3) what retention strategies can be implemented based on the results to diminish prospective customer churn?
  
