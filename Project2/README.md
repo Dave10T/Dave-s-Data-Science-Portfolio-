@@ -8,5 +8,16 @@
     (1) what is the likelihood of an active customer leaving an organization? 
     (2) what are key indicators of a customer churn? 
     (3) what retention strategies can be implemented based on the results to diminish prospective customer churn?
-## Data Strcuture
+    
+   ## This project consists of the seven following stages: Section A: 
+            Stage 1: Data Preprocessing
+            Stage 2: Data Evaluation
+            Stage 3: Model Selection
+            Stage 4: Model Evaluation
+            Stage 5: Model Improvement
+            Stage 6: Future Predictions
+            Stage 7: Model Deployment 
+## Stage 1: Data Processing; data Strcuture
 ![](https://github.com/Dave10T/Dave-s-Data-Science-Portfolio-/blob/main/Project2/img/p2-1.png)
+# Stage 2: Data Evaluation.
+![](https://github.com/Dave10T/Dave-s-Data-Science-Portfolio-/blob/main/Project2/img/p2-2.png)
