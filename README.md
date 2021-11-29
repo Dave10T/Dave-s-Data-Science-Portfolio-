@@ -17,11 +17,14 @@ For this analysis, I have used 6 years of historical data from around First-Jan 
    import warnings
    warnings.filterwarnings('ignore')
 ```
-### Objectives of this project: to investigate the general variation in the stock price, day-to-day percentage change(Daily returns), trend Analysis, daily returns and volume trading and correlation analysis of stocks with pair plot and joint plots.
+### Objectives of this project: to investigate the general variation in the stock price, day-to-day percentage change(Daily returns), trend Analysis, daily returns and volume trading, correlation analysis of stocks with pair plot and joint plots and volatility analysis.
 
 ## * Results obtained:
 
+## ** Price:
 ![](https://github.com/Dave10T/Dave-s-Data-Science-Portfolio-/blob/main/images/DailyReturnspng.png)
+
+
 ![](https://github.com/Dave10T/Dave-s-Data-Science-Portfolio-/blob/main/images/PieChart.png)
 ![](https://github.com/Dave10T/Dave-s-Data-Science-Portfolio-/blob/main/images/DailyVolume%20trade.png)
 ![](https://github.com/Dave10T/Dave-s-Data-Science-Portfolio-/blob/main/images/CorrelationPairpng.png)
