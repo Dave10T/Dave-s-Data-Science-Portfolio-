@@ -29,3 +29,6 @@
 
 ## Stage 3: Model Selection.
 ![](https://github.com/Dave10T/Dave-s-Data-Science-Portfolio-/blob/main/Project2/img/p2-MS.png)
+
+## Stage 4: Model Evaluation.
+Evaluate the model using ROC Graph: Its is convenient re-evaluate the model using ROC Graph. ROC Graph shows us the capability of a model to distinguish between the classes based on the AUC Mean score. The orange line represents the ROC curve of a random classifier while a good classifier tries to remain as far away from that line as possible. As shown in the graph below, the fine-tuned Logistic Regression model showcased a higher AUC score.
