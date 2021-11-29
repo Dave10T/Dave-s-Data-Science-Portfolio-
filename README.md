@@ -1,7 +1,6 @@
-# [Dave's Data Science Portfolio](https://github.com/Dave10T/Dave_portofolio)
-Este es un portafolio de evidencias con los proyectos en los cuales he estado trabajando
+# Este es un portafolio de evidencias con los proyectos en los cuales he estado trabajando
 
-## Project 1. Data Analysis & Visualization in Finance 
+## [Project 1. Data Analysis & Visualization in Finance](https://github.com/Dave10T/Dave-s-Data-Science-Portfolio-)
    Technical Analysis of Bitcoin and some other cryptocurrencies using Python
 
 ![](https://github.com/Dave10T/Dave-s-Data-Science-Portfolio-/blob/main/images/DailyReturnspng.png)
