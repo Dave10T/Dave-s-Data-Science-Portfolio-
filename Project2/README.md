@@ -1,4 +1,4 @@
-## [Project 2. Data Analysis & Visualization in Finance](https://github.com/Dave10T/Dave-s-Data-Science-Portfolio-/tree/main/Project2)
+## [Project 2. Predict Customer Churn in Python.](https://github.com/Dave10T/Dave-s-Data-Science-Portfolio-/tree/main/Project2)
    Predicting customer attrition using supervised machine learning algorithms in Python
    
    **Project descrption:** Customer attrition (a.k.a customer churn) is one of the biggest expenditures of any organization. If one could figure out why a      customer leaves and when they leave with reasonable accuracy, it would immensely help the organization to strategize their retention initiatives manifold. We make     use of a customer transaction dataset from Kaggle to understand the key steps involved in predicting customer attrition in Python.
