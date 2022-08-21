@@ -1,41 +1,25 @@
-# The Dave's Tello Data Science Portfolio.
-## This is a portfolio that contains the projects that I've been working on.
-## [Project 1. Data Analysis & Visualization in Finance](https://github.com/Dave10T/Dave-s-Data-Science-Portfolio-)
-   Technical Analysis of Bitcoin and some other cryptocurrencies using Python
-   
-**Project description:** with an increase in the penetration of analytics into numerous facets of our lives, finance is definitely one of the earliest to catch onto this trend. In this project I have attempted to showcase how data analytics and visualization techniques can be incorporated in the world of cryptocurrencies. Bitcoin aswell as other cryptocurrencies such as ETH, XRP, ADA and many others are the most profitable assets today
+<h1 align="center">Hi 👋, I'm Uriel David Tello Padilla</h1>
+<h3 align="center">I'm a mathematician with a great passion for scientific computing and data science.</h3>
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=dave10t&label=Profile%20views&color=0e75b6&style=flat" alt="dave10t" /> </p>
 
-## Understanding data & general statistics
-For this analysis, I have used 6 years of historical data from around First-Jan 2015 to Nov-2021 of bitcoin. The data was taken from Yahoo Fianance. 
-```Import necessary libraries —
-   import numpy as np 
-   import pandas as pd
-   import matplotlib.pyplot as plt
-   import seaborn as sns
-   import datetime
-   import warnings
-   warnings.filterwarnings('ignore')
-```
-### Objectives of this project: to investigate the general variation in the stock price, day-to-day percentage change(Daily returns), trend Analysis, daily returns and volume trading, correlation analysis of stocks with pair plot and joint plots and volatility analysis.
+- 🔭 I’m currently working on **Web Scraping with Scrapy**
 
-## > Results obtained:
+- 👯 I’m looking to collaborate on **Computer Vision and AI**
 
-## Price:
-![](https://github.com/Dave10T/Dave-s-Data-Science-Portfolio-/blob/main/images/BTC-Price.png)
+- 👨‍💻 All of my projects are available at [https://dave10t.github.io/](https://dave10t.github.io/)
 
-## We wish to see how the stock was trending in past 5 years. This can be visualized as a pie chart
-![](https://github.com/Dave10T/Dave-s-Data-Science-Portfolio-/blob/main/images/PieChart.png)
+- 💬 Ask me about **Math, Julia and Python**
 
-## Daily Volume Trade
-![](https://github.com/Dave10T/Dave-s-Data-Science-Portfolio-/blob/main/images/DailyVolume%20trade.png)
+- 📫 How to reach me **dave.esfm10@gmail.com**
 
-## Correlation
-![](https://github.com/Dave10T/Dave-s-Data-Science-Portfolio-/blob/main/images/CorrelationPairpng.png)
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://linkedin.com/in/https://www.linkedin.com/in/david-tello-850a63bb/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/david-tello-850a63bb/" height="30" width="40" /></a>
+<a href="https://medium.com/https://medium.com/@davetello" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="https://medium.com/@davetello" height="30" width="40" /></a>
+</p>
 
-## Volatility Analysis 
-![](https://github.com/Dave10T/Dave-s-Data-Science-Portfolio-/blob/main/images/VolBTC.png)
-![](https://github.com/Dave10T/Dave-s-Data-Science-Portfolio-/blob/main/images/VOL3Crypto.png)
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mathworks.com/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="matlab" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://opencv.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://pytorch.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/> </a> <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/> </a> <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> </p>
 
-
- 
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=dave10t&show_icons=true&locale=en" alt="dave10t" /></p>
