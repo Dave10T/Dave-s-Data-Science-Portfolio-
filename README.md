@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=dave10t&label=Profile%20views&color=0e75b6&style=flat" alt="dave10t" /> </p>
 
-- 🔭 I’m currently working on **Web Scraping with Scrapy**
+- 🔭 I’m currently working on **Web Scraping with Scrapy** and ** Flask**
 
 - 👯 I’m looking to collaborate on **Computer Vision and AI**
 
